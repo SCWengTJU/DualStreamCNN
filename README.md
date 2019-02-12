@@ -8,4 +8,4 @@ Tensorflow
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:
 
-> hello
+>> hello
