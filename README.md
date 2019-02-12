@@ -8,4 +8,5 @@ Tensorflow
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:
 
->> hello
+<table><tr><td bgcolor=PowderBlue>这里的背景色是：PowderBlue，  十六进制颜色值： #B0E0E6，rgb(176, 224, 230)</td></tr></table>
+
