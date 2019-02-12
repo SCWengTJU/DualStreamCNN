@@ -8,7 +8,4 @@ Tensorflow
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:
 
-void main()
-{
-printf("Hello, Markdown.");
-}
+> hello
