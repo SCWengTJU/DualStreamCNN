@@ -17,10 +17,10 @@ Tensorflow
 If you find DualStreamCNN useful in your research, please consider citing:  
 
 @article{  
-  author    = {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
-  title     = {Dual-Stream CNN for Structured Time Series Classification},  
-  Year = {2019},  
-  booktitle = {{ICASSP}}  
+    author    = {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
+    title     = {Dual-Stream CNN for Structured Time Series Classification},  
+    Year = {2019},  
+    booktitle = {{ICASSP}}  
 }
 
 
