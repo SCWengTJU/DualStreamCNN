@@ -45,10 +45,10 @@ Download here and save it to ./init_weight/
 If you find DualStreamCNN useful in your research, please consider citing:  
 
 @article{DualStreamCNN，</br>
-&emsp;&emsp; author &emsp;&emsp;= {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
-&emsp;&emsp; title &emsp;&emsp;= {Dual-Stream CNN for Structured Time Series Classification},  
-&emsp; Year &emsp; = &emsp;{2019},  
-&emsp; booktitle &emsp; = &emsp;{{ICASSP}}  
+&emsp;&emsp; author &emsp;&emsp;=&emsp;&emsp; {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
+&emsp;&emsp; title &emsp;&emsp;=&emsp;&emsp; {Dual-Stream CNN for Structured Time Series Classification},  
+&emsp;&emsp; Year &emsp; = &emsp;{2019},  
+&emsp;&emsp; booktitle &emsp; = &emsp;{{ICASSP}}  
 }
 
 
