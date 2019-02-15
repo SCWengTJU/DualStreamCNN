@@ -44,11 +44,11 @@ Download here and save it to ./init_weight/
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:  
 
-@article{  DualStreamCNN
-    author    = {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
-    title     = {Dual-Stream CNN for Structured Time Series Classification},  
-    Year = {2019},  
-    booktitle = {{ICASSP}}  
+@article{DualStreamCNN，</br>
+&nbsp;&nbsp;&nbsp;&nbsp;author    = {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
+&nbsp;&nbsp;&nbsp;&nbsp;title     = {Dual-Stream CNN for Structured Time Series Classification},  
+&nbsp;&nbsp;&nbsp;&nbsp;Year = {2019},  
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle = {{ICASSP}}  
 }
 
 
