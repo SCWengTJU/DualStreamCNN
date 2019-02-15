@@ -12,7 +12,7 @@ Training data is saved in ```./train_raw/```</br>
 Testing data is saved in ```./test_raw/```
 
 ## Pretrained Model
-Download here and save it to ```./init_weight/```
+Download [here](https://pan.baidu.com/s/1JxNBHrQN2st7riDQssBNvg) and save it to ```./init_weight/```
 
 ## Training
 1. Interpolate training data to 68 frames, as what ```./interpolation.py``` did. Then save processed data to ```./train_67/```
