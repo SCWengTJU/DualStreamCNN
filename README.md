@@ -3,6 +3,7 @@ Tensorflow implementation for reproducing SAR results in the paper Dual-Stream C
 
 
  <img src="https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig1.png" width = "300" height = "200" align=center />
+ <img src="https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig2.png" width = "300" height = "200" align=center />
 
 
 ## Dependencies
