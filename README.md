@@ -4,8 +4,8 @@ Tensorflow implementation for reproducing SAR results in the paper Dual-Stream C
  <img src="https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig1.png" width = "900" height = "600" align=center />
 
 ## Dependencies
-python 2.7  
-Tensorflow  
+* python 2.7  
+* Tensorflow  
 
 ## Data
 Training data is saved in ./train_raw/
