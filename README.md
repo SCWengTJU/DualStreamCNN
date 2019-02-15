@@ -39,7 +39,7 @@ Download here and save it to ./init_weight/
 | SSS | 0.560 | 0.413 | 0.253 |
 | HBRNN-L-T | 0.915 | 0.673 | 0.756 |
 | URNN-2L-T | 0.931 | 0.753 | 0.892 |
-| Ours | 0.963 | 0.772 | 0.896 |
+| **Ours** | **0.963** | **0.772** | **0.896** |
 
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:  
