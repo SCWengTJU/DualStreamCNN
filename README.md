@@ -27,10 +27,19 @@ Download here and save it to ./init_weight/
 
 ## Result
 
-| 左对齐标题 | 右对齐标题 | 居中对齐标题 |
-| :------| ------: | :------: |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| Methods | MSR Action3D | ChaLearn | 3D-SAR-140 |
+| :------: | :------: | :------: | :------: |
+| RR | 0.891 | 0.438 | 0.723 |
+| HBRNN-L | 0.897 | 0.559 | 0.604 |
+| CHARM | 0.747 | 0.476 | 0.618 |
+| DBN-HMM | 0.735 | 0.628 | 0.601 |
+| Lie-group | 0.866 | 0.401 | 0.745 |
+| HOD | 0.844 | 0.539 | 0.657 |
+| MP | 0.909 | 0.452 | 0.203 |
+| SSS | 0.560 | 0.413 | 0.253 |
+| HBRNN-L-T | 0.915 | 0.673 | 0.756 |
+| URNN-2L-T | 0.931 | 0.753 | 0.892 |
+| Ours | 0.963 | 0.772 | 0.896 |
 
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:  
