@@ -1,10 +1,10 @@
 # DualStreamCNN
 Tensorflow implementation for reproducing SAR results in the paper Dual-Stream CNN for Structured Time Series Classification by Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu.
 
-![](https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig1.png)
-![](https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig2.png)
-
-
+<figure class="half">
+    <img src="https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig1.png">
+    <img src="https://github.com/SCWengTJU/DualStreamCNN/blob/master/Figures/Fig2.png">
+</figure>
 
 ## Dependencies
 python 2.7  
