@@ -21,13 +21,21 @@ Download here and save it to ./init_weight/
 4. Run ./train.py to load pretrained model and start training
 
 ## Validation
+1. Run ./Interplation.py to interpolate frames to 68. Processed data will be saved in ./test_67/
+2. Run ./get_test.py to get test input, saved in ./test_dis_67_input/
+3. Run ./test.py to get test results
 
 ## Result
+
+| 左对齐标题 | 右对齐标题 | 居中对齐标题 |
+| :------| ------: | :------: |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
 
 ## Citing AttnGAN
 If you find DualStreamCNN useful in your research, please consider citing:  
 
-@article{  
+@article{  DualStreamCNN
     author    = {Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu},  
     title     = {Dual-Stream CNN for Structured Time Series Classification},  
     Year = {2019},  
