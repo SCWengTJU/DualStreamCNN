@@ -16,9 +16,9 @@ Download here and save it to ./init_weight/
 
 ## Training
 1. Interpolate training data to 68 frames, as what ./interpolation.py did. Then save processed data to ./train_67/
-2. Run ./get_train.py. Numpy data will be saved in ./train_dis_np_67/
-3. Run ./np2tf.py to convert '.npy' to '.tfrecord'
-
+2. Run ./get_train.py and numpy data will be saved in ./train_dis_np_67/
+3. Run ./np2tf.py to convert '.npy' to '.tfrecord'. The directory ./train_67_tfrecord/ will be created automatically
+4. Run ./train.py to load pretrained model and start training
 
 ## Validation
 
